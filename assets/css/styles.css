@@ -325,7 +325,6 @@ section[id]{ scroll-margin-top: var(--header-h); }
 }
 @media (max-width: 540px){
   .cat-grid{ grid-template-columns:1fr; }
-  .price-lines{ flex-direction:column; gap: var(--sp-2); }
   .hero{ min-height:0; align-items:center; padding-top: var(--header-h); }
   .hero-inner{ padding-block: var(--sp-6); }
   .trust-item{ flex-direction:column; align-items:flex-start; gap:.1em; }
