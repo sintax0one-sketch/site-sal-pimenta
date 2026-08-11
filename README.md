@@ -16,6 +16,7 @@ Procure por `<!-- TROCAR -->` no código (ou use Ctrl+F no `index.html`) — sã
    - Salve as fotos novas na pasta `img/` com os mesmos nomes (`hero-buffet.jpg`, `buffet-vitrine.jpg`, `saladas.jpg`, `grelhados.jpg`, `sobremesa.jpg`, `ambiente.jpg`, `mesa-amigos.jpg`) — assim encaixam sem quebrar o layout (o recorte/proporção já está certo).
 2. **Tabela infantil** — se existir preço diferenciado para criança, me avisa que eu incluo no card de preços.
 3. **Avaliações citadas** — a seção "Avaliações" resume o que aparece publicamente no Google/Restaurant Guru (não são depoimentos com nome). Se vocês tiverem depoimentos reais com nome de cliente, me passem que eu troco pela citação de verdade.
+4. **IMPORTANTE: confirme os preços do buffet antes de publicar de verdade.** Os valores no site (seg-sex R$35 à vontade/R$75 kg; sáb R$47 à vontade/R$85 kg) vieram da fonte mais recente que encontrei pesquisando, mas essa fonte é de setembro/2023 (quase 3 anos). É bem possível que o preço tenha mudado desde então. Confirme com a casa pelo WhatsApp antes de considerar o site pronto pra valer.
 
 ## O que já está pronto
 
